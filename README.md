@@ -5,5 +5,5 @@ This is a project of mine. I made a tribute page. Make sure you visit the link b
 https://tribute-jkrowling.netlify.app/
 
 <h2>Highly Appreciated if you</h2>
-1. Star this repository
+1. Star this repository <br>
 2. Make your own changes if you feel anything is wrong in the site and pull request
